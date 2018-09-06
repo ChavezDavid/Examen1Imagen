@@ -49,6 +49,7 @@ namespace ExamenParcial1
 
         private void rojoToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //Limpiar histogrma
             if (inputImage == null)
             {
                 return;
